@@ -2,6 +2,6 @@ objectid,filename,title,format,description,artist,medium,date,subject,location,l
 painting001,painting001.jpg,Nighthawk,image/jpg,,Edward Hopper,Acrylic,,Bar; Night,,,,
 painting002,painting002.jpg,Starry Night,image/jpg,,Vincent van Gogh,Acrylic,,Landscape; Trippy; Night,,,,
 painting003,painting003.jpg,Mona Lisa,image/jpg,,Leonardo da Vinci,Oil,,Portrait,,,,
-painting004,painting004.jpg,The Water Lily Pond,image/jpg,,Claude Monet,Oil,,Lanscape,,,,
-painting005,painting005.jpg,Cape Cod House,image/jpg,,Edward Hopper,Oil,,Lanscape,Cape Cod,,,
+painting004,painting004.jpg,The Water Lily Pond,image/jpg,,Claude Monet,Oil,,Landscape,,,,
+painting005,painting005.jpg,Cape Cod House,image/jpg,,Edward Hopper,Oil,,Landscape,Cape Cod,,,
 painting006,painting006.jpg,Self-Portrait,image/jpg,,Vincent van Gogh,Acrylic,,Portrait,,,,
