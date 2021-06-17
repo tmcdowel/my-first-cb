@@ -14,6 +14,8 @@ credits: true
 
 ## About this Painting Collection
 
-This site was built using Collection Builder to showcase the feasibility of adding resources using only JPG images and CSV Metadata. For this example, famous paintings are showcased here. Enjoy!
+This site was built using Collection Builder to showcase the feasibility of adding resources using only JPG images and CSV Metadata. For this example, famous paintings are showcased here.
 
 As time passes, more paintings will be imported into the collection.
+
+Enjoy!
