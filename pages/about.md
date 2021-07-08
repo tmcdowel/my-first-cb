@@ -1,21 +1,9 @@
----
-title: About
-layout: about
-permalink: /about.html
-# include CollectionBuilder info at bottom
-credits: true
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
----
+## Childhood
 
-{% include feature/jumbotron.html objectid="painting002.jpg" %}
+Edward Hopper was born into a comfortable, middle-class family in Nyack, New York, in 1882. His parents introduced Edward, and his older sister Marion, to the arts early in life; they attended the theatre, concerts and other cultural events, and visited museums. His father owned a dry goods store where Hopper sometimes worked as a teen. Hopper described him as "an incipient intellectual... less at home with his books of accounts than with Montaigne's essays." Both his parents were supportive of his artistic inclinations.
+As a boy, Hopper was quiet and reserved. He was over six feet tall by his early teens, had few friends, and spent much of his time alone with his books and art. His home in Nyack stood on a hill overlooking the Hudson River, just north of New York City. At the time Nyack was a vibrant hub of transit and industry. There was an active train station, three shipbuilding companies, a port for steamboats, and the cross-Hudson ferry. Young Edward spent his days by the river, sketchpad in hand, observing and drawing the rigging and building of boats. This early period is documented in numerous drawings of boats and ships as well as several handmade wooden model boats. As a teen he built a full-sized catboat and briefly considered pursuing a career in naval architecture. The seriousness with which the artist approached his artistic ambitions had already revealed itself by age 10 when he began to sign and date his drawings.
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+## Early Period
 
-## About this Painting Collection
-
-This site was built using Collection Builder to showcase the feasibility of adding resources using only JPG images and CSV Metadata. For this example, famous paintings are showcased here.
-
-As time passes, more paintings will be imported into the collection.
-
-Enjoy!
+After graduating high school in 1899, Hopper's parents encouraged him to study commercial illustration instead of fine art. Accordingly, he spent a year at the New York School of Illustration in Manhattan before transferring to the more serious New York School of Art to realize his dream. His teachers there included the American Impressionist William Merritt Chase (who founded the school) and Robert Henri, a leading figure of the Ashcan school, whose proponents advocated depicting the grittier side of urban life. Hopper's classmates at the school included George Bellows, Guy Pene du Bois, and Rockwell Kent.
+In 1905, Hopper began working as an illustrator for a New York City advertising agency but never really liked illustrating and longed for the freedom to paint from his imagination. Unfortunately, success was slow in coming and he was forced to earn his living as an illustrator for nearly 20 more years until his painting career took off.
