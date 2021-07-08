@@ -1,3 +1,13 @@
+---
+title: About
+layout: about
+permalink: /about.html
+# include CollectionBuilder info at bottom
+credits: false
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
+---
+
 ## Childhood
 
 Edward Hopper was born into a comfortable, middle-class family in Nyack, New York, in 1882. His parents introduced Edward, and his older sister Marion, to the arts early in life; they attended the theatre, concerts and other cultural events, and visited museums. His father owned a dry goods store where Hopper sometimes worked as a teen. Hopper described him as "an incipient intellectual... less at home with his books of accounts than with Montaigne's essays." Both his parents were supportive of his artistic inclinations.
