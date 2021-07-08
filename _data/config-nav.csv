@@ -1,8 +1,8 @@
 display_name,stub,dropdown_parent
-Home,/
-Bio,/bio.html
-Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
-About,/about.html
+Home,/,
+Biography,/biography.html,
+Browse,/browse.html,
+Subjects,/subjects.html,
+Locations,/locations.html,
+Map,/map.html,
+About,/about.html,
