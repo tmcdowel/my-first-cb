@@ -1,7 +1,7 @@
 objectid,filename,title,format,description,artist,medium,date,subject,location,latitude,longitude,language
-001,cape_cod_morning_1950.jpg,Cape Cod Morning,image/jpg,,Edward Hopper,Acrylic,1950,Bar; Night,Cape Cod,41.6,-70.2,English
-002,lighthouse_hill_1927.jpg,Lighthouse Hill,image/jpg,,Edward Hopper,Acrylic,1927,Landscape; Morning; Day; Outdoors,Cape Cod,41.6,-70.2,English
-003,nighthawk_1942.jpg,Nighthawk,image/jpg,,Edward Hopper,Oil,1942,Outdoors; Somber; Evening,New York,40.7,-74.0,English
-004,self_portrait_1930.jpg,Self Portrait,image/jpg,,Edward Hopper,Oil,1930,Portrait; Indoors,New York,40.7,-74.0,English
-005,room_in_new_york_1932.jpg,Room In New York,image/jpg,,Edward Hopper,Oil,1932,Atmosphere; Indoors; Evening,Cape Cod,41.6,-70.2,English
-006,morning_sun_1952.jpg,Morning Sun,image/jpg,,Edward Hopper,Acrylic,1952,Morning; Day,New York,40.7,-74.0,English
+001,cape_cod_morning_1950.jpg,Cape Cod Morning,image/jpg,,Edward Hopper,Acrylic,1950,Bar; Night,Cape Cod,-41.6,70.2,English
+002,lighthouse_hill_1927.jpg,Lighthouse Hill,image/jpg,,Edward Hopper,Acrylic,1927,Landscape; Morning; Day; Outdoors,Cape Cod,-41.6,70.2,English
+003,nighthawk_1942.jpg,Nighthawk,image/jpg,,Edward Hopper,Oil,1942,Outdoors; Somber; Evening,New York,-40.7,74.0,English
+004,self_portrait_1930.jpg,Self Portrait,image/jpg,,Edward Hopper,Oil,1930,Portrait; Indoors,New York,-40.7,74.0,English
+005,room_in_new_york_1932.jpg,Room In New York,image/jpg,,Edward Hopper,Oil,1932,Atmosphere; Indoors; Evening,Cape Cod,-41.6,70.2,English
+006,morning_sun_1952.jpg,Morning Sun,image/jpg,,Edward Hopper,Acrylic,1952,Morning; Day,New York,-40.7,74.0,English
