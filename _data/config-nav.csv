@@ -1,10 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
+Bio,bio.html
 Browse,/browse.html
 Subjects,/subjects.html
-Artists,/artists.html
 Locations,/locations.html
 Map,/map.html
-Timeline,/timeline.html
-Data,/data.html
 About,/about.html
